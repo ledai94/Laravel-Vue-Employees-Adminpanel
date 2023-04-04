@@ -1,10 +1,13 @@
 ## Laravel 5.6 + Vue.js Employee Adminpanel Demo
 
+NodeJs version 10.* 10.24.1
+
 This is a quick project to demonstrate our [Vue + Laravel QuickAdminPanel generator](https://vue.quickadminpanel.com).
 
 The whole project code was completely **generated**, without customizing or changing any line of code.
 
 ![Laravel Vue.js adminpanel](https://laraveldaily.com/wp-content/uploads/2018/11/laravel-vue-demo.png)
+
 
 ---
 
